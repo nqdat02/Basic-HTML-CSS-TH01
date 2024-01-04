@@ -1,2 +1,2 @@
 # Basic-HTML-CSS-TH01
-Basic-HTML-CSS BT
+Thực hành 01 - Lập trình Web Giao diện web bán đồ ăn
